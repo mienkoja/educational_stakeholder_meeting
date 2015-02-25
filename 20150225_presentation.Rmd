@@ -1,0 +1,66 @@
+---
+title: "Annual Report Measures Related to Foster Child Education"
+author: "Foster Care Education Stakeholder Workgroup Meeting"
+date: "February 25, 2015"
+output: slidy_presentation
+---
+
+## Goals in Preparing Initial Measurements
+
+- Establish partnerships for access to data which could endure without the need for additional state funding,
+
+- Establish measurements with an eye toward replicability and monitoring **current** performance, and  
+
+- Report as many data points as are available within the limits of existing data. 
+
+## Identifying Foster Children in Educational Data
+
+### Two Basic Approaches
+
+1. Matching-Based Identification 
+
+2. Proxy-Based Identification 
+
+## Identifying Foster Children in Educational Data
+
+### Proxy-Based Identification
+
+- Many children receive free and reduced lunches 
+
+- Some children receiving free and reduced lunches receive the benefit based on their placement in foster care
+
+## Measures in Law and Operational Definitions
+
+| Second Substitute House Bill 1566 (2013)                                         | Chosen Measure                       | Measure Description                                                                    |
+|----------------------------------------------------------------------------------|--------------------------------------|----------------------------------------------------------------------------------------|
+| Number of youth graduating from high school with a documented plan...            | Adult Transition Planning Rate       | Percent of 17-and-a-half year-olds in foster care care who had a transitional staffing |
+| Aggregate scores from the third grade statewide student assessment in reading... | Third Grade Literacy Rate            | Percent of third graders that passed the reading portion of the MSP                    |
+| Not Applicable (Additional Measurement)...                                       | Cumulative High School Dropout Rate | Percent of youth who dropped out of high school by 12th grade                          |
+| Number of youth who complete an associate or bachelor's degree...                | College Enrollment Rate              | Percent of youth enrolled in post secondary education within 1 yr of 12th grade        |
+| Number of youth completing one year of post-secondary education...                | On-Time College Completion Rate      | Percent of youth completing any public post-secondary education in WA within 4 years   |
+| Aggregate scores from the Washington state kindergarten readiness assessment...  | Not Available for 2015 Report        | --                                                                                     |
+
+
+## Summary of Measures
+
+| Measure                              | Starting Percentage | Ending Percentage | Staring Year | Ending Year | Description of Year            | Population of Interest        |
+|--------------------------------------|---------------------|-------------------|--------------|-------------|--------------------------------|-------------------------------|
+| Adult Transition Planning Rate       | 69.5%               | 97.8%             | 2012         | 2014        | Year of 17-and-a-half Birthday | 17.5 Year Old foster Children |
+| [Third Grade Literacy Rate](http://poctest.spiders.net/data-portal/visualizations/measuring-performance-education)            | 68.08%              | 66.29%            | 2006         | 2008        | Year of Third Grade            | 3rd Grade Foster Children     |
+| [Cumulative High School Dropout Rate](http://poctest.spiders.net/data-portal/visualizations/measuring-performance-education) | 40.20%              | 38.64%            | 2010         | 2011        | Expected Year of HS Graduation | 9th Grade Foster Children     |
+| [College Enrollment Rate](http://poctest.spiders.net/data-portal/visualizations/measuring-performance-education)              | 44.50%              | 44.40%            | 2007         | 2009        | Expected Year of HS Graduation | 12th Grade Foster Children    |
+| [On-Time College Completion Rate](http://poctest.spiders.net/data-portal/visualizations/measuring-performance-education)      | --                  | 2.61%             | --           | 2007        | Expected Year of HS Graduation | 12th Grade Foster Children    |
+
+## Moving Forward
+
+### Are these the measures that we want?
+
+- Focus on children in care vs. children that have been in care
+- Alignment with Results Washington
+- Are we tracking foster children long enough?
+- Other measures we would like to see?
+
+### Is this the selection approach that we want?
+
+- The new foster care flag
+- The need to examine nuances of foster care episodes
